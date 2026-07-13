@@ -1,0 +1,12 @@
+C:\Users\SH\source\repos\SimplCalculator\bin\Debug\SimplCalculator.exe.config
+C:\Users\SH\source\repos\SimplCalculator\bin\Debug\SimplCalculator.exe
+C:\Users\SH\source\repos\SimplCalculator\bin\Debug\SimplCalculator.pdb
+C:\Users\SH\source\repos\SimplCalculator\obj\Debug\SimplCalculator.csproj.AssemblyReference.cache
+C:\Users\SH\source\repos\SimplCalculator\obj\Debug\SimplCalculator.Form1.resources
+C:\Users\SH\source\repos\SimplCalculator\obj\Debug\SimplCalculator.Properties.Resources.resources
+C:\Users\SH\source\repos\SimplCalculator\obj\Debug\SimplCalculator.csproj.GenerateResource.cache
+C:\Users\SH\source\repos\SimplCalculator\obj\Debug\SimplCalculator.csproj.CoreCompileInputs.cache
+C:\Users\SH\source\repos\SimplCalculator\obj\Debug\SimplCalculator.exe
+C:\Users\SH\source\repos\SimplCalculator\obj\Debug\SimplCalculator.pdb
+C:\Users\SH\source\repos\SimplCalculator\bin\Debug\Guna.UI2.dll
+C:\Users\SH\source\repos\SimplCalculator\obj\Debug\SimplCal.99400D2E.Up2Date
